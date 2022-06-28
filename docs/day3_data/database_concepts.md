@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Database concepts
-parent: Data knowledge
+parent: Data Fundamentals
 nav_order: 2
 ---
 
